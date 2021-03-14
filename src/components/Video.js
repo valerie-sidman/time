@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/iframe-has-title */
 import React from 'react';
 import DateTime from './DateTime';
 import DateTimePretty from './DateTimePretty';
